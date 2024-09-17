@@ -1,0 +1,27 @@
+body{
+    padding:0px 100px;
+    background-color: rgb(63, 58, 52);
+}
+    
+
+h1{
+    text-align:center;
+    background-color: aqua;
+    color:blueviolet;
+    padding:20px;
+    margin:0;
+}
+#textbox{
+    width:99.3%;
+    border-color:rgb(58, 146, 146) ;
+    font-size: 30px;
+}
+p{
+    font-size: bold;
+    font-weight: 30px;
+    background-color: aqua;
+    color:blueviolet;
+    padding:20px;
+    margin:0px;
+    text-align: center;
+}
